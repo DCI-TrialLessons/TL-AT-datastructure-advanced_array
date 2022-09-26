@@ -33,10 +33,3 @@ function filterFriends(friendsArray, key) {
 
 console.log(filterFriends(friends, "i"));
 
-//  5
-const sumUp = (arrayOfNumbers) => arrayOfNumbers.reduce((cur, acc) => cur + acc);
-console.log(sumUp([1, 2, 3]))
-
-// 6
-const getSquareRoot = (arrayOfNumbers) => arrayOfNumbers.map(el => Math.sqrt(el));
-console.log(getSquareRoot([1, 2, 3])) 
