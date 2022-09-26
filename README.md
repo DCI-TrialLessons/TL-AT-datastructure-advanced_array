@@ -38,14 +38,3 @@ console.log(filterItems(friends, 'ka')); // ["Rika"];
 console.log(filterItems(friends, 'e')); // ["Jenna", "Bleda", "Oliver"];
 ```
 
-#### 5. Sum Up
-* Write a function called sum that uses the reduce method to sum up an array of numbers. 
-
-* Examples:
-```javascript
-sum([1,2,3,4,5]); //returns 15
-sum([6,7,7]); //returns 20
-```
-
-#### 6. Square Root
-* Given an array of numbers, find the square root of each element in the array.
